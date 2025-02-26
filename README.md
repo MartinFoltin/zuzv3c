@@ -9,7 +9,7 @@ Súčasný maturant na Slovensku by mal mať prehľad o nasledujúcich témach z
 
 2. **Algebra:**
    - Rovnice a nerovnice (lineárne, kvadratické, vyšších stupňov, exponenciálne, logaritmické)
-   - Sústavy rovníc (lineárne a nelineárne)
+   [- Sústavy rovníc (lineárne a nelineárne)] (https://github.com/MartinFoltin/zuzv3c/tree/main/Sústavy%20rovníc)
    - Polynomické funkcie a ich vlastnosti
    - Absolútna hodnota a jej vlastnosti
    - Komplexné čísla
